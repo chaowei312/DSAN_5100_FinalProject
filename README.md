@@ -31,6 +31,12 @@ This project explores GDP growth rate data through multiple feature selection me
 
 -  — GDP growth rate dataset with economic indicators
 
+
+
+## Reports & Documentation
+
+- [**Project Report: Factors Influencing Homelessness in the United States**](https://docs.google.com/document/d/1u6QoiCuH-W8eirAuweh9ZMiI4fTHdNUAoWVIfA-tFi4/edit?usp=sharing) - Full methodology, results, and analysis
+
 ## Tech Stack
 
 - Python, scikit-learn
